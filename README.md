@@ -1,23 +1,27 @@
-# Vintage Christmas & Thanksgiving Scripture Wall Art
+# Vintage Christmas & Thanksgiving Scripture Wall Art (KJV)
 
-Bible-based vintage wall art for **Etsy digital downloads** and **Printify canvas POD**.
+Bible-based vintage wall art for **Etsy** and **Printify canvas**.
 
-## Commercial License
-**You own these files for commercial use** (Etsy, Printify, any platform).
+## 👉 PRINTIFY CANVAS PICS (use these for canvas)
 
-## Folders
-| Folder | Use |
-|--------|-----|
-| `christmas/` | Preview / web / smaller digital downloads (~1152×1728) |
-| `thanksgiving/` | Same for Thanksgiving set |
-| **`printify-canvas/`** | **Printify canvas masters – 4800×7200 @ 300 DPI** (any standard canvas size) |
+**Open this folder first:**
 
-See **`printify-canvas/PRINTIFY_CANVAS_GUIDE.md`** for size chart and upload steps.
+### 📂 [PRINTIFY-CANVAS-PICS](https://github.com/SAW72/christmas-thanksgiving-wall-art/tree/main/PRINTIFY-CANVAS-PICS)
 
-## KJV accuracy
-See **`KJV_VERSE_CHECK.md`** — verses verified against the Authorized King James Version.
+Every file is labeled `PRINTIFY_CANVAS_…`  
+**4800 × 7200 @ 300 DPI** — upload straight to Printify.
 
-## Collection
-- 27 Christmas pieces (nativity, trees, wreaths, cabins, horse & buggy, Santa, Magi)
-- 4 Thanksgiving pieces
-- Vertical 2:3 aspect (best: 8×12, 12×18, 16×24, 20×30, 24×36 canvas)
+- Christmas: [PRINTIFY-CANVAS-PICS/christmas](https://github.com/SAW72/christmas-thanksgiving-wall-art/tree/main/PRINTIFY-CANVAS-PICS/christmas)  
+- Thanksgiving: [PRINTIFY-CANVAS-PICS/thanksgiving](https://github.com/SAW72/christmas-thanksgiving-wall-art/tree/main/PRINTIFY-CANVAS-PICS/thanksgiving)  
+- Guide: [PRINTIFY-CANVAS-PICS/README.md](https://github.com/SAW72/christmas-thanksgiving-wall-art/blob/main/PRINTIFY-CANVAS-PICS/README.md)
+
+## Other folders
+| Folder | What it is |
+|--------|------------|
+| `PRINTIFY-CANVAS-PICS/` | **Labeled Printify canvas masters (use these)** |
+| `printify-canvas/` | Same high-res files (original names) |
+| `christmas/` / `thanksgiving/` | Smaller web/preview JPGs |
+| `KJV_VERSE_CHECK.md` | Exact KJV text audit |
+
+## Commercial license
+You own these files for commercial Etsy / Printify sale.
